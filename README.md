@@ -1,7 +1,7 @@
 <!DOCFILE html>
   <head>  
     <title>The Melanin Movement</tilte>
-  <head>
+  </head>
 <p>  
   <h1>The Melanin Movement</h1>  
   <h2>Home</h2>  
