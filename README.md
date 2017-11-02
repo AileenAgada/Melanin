@@ -1,6 +1,6 @@
 <!DOCFILE html>
   <head>  
-    <title>The Melanin Movement</tilte>
+    <title>The Melanin Movement</title>
   </head>
 <p>  
   <h1>The Melanin Movement</h1>  
